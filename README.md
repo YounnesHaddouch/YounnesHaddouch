@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me email: younneshaddouch@gmail.com
+- 📫 How to reach me email: younnes.h@outlook.com
 
 <!---
 DilutedBlasian/DilutedBlasian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
