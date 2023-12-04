@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YounnesHaddouch
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me email: younneshaddouch22@gmail.com
 
