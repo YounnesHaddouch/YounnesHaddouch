@@ -6,7 +6,7 @@
 
 💻 **Computer Science Student | Open Source Enthusiast**  
 🌱 Currently learning **Java**  
-🔍 Exploring **Open Source & GSoC 2025** opportunities  
+🔍 Exploring **Open Source** opportunities  
 📫 Reach me at: younnes_haddouch@outlook.com  
 
 ---
